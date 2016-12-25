@@ -14,7 +14,7 @@ This conjecture rests on several assumptions:
 
 # Finding an Appropriate Utility Function
 
-After exploring different mathematical functions (and inspiration from the design of fuzzy logic member functions) I stumbled upon the following function:
+After some exploration (and with some inspiration from the design of fuzzy logic membership functions) I stumbled upon the following function:
 
 ![Latex Image of u(t)](img/UtilFuncN.gif)
 
@@ -41,12 +41,18 @@ The aforementioned graphs are displayed below; however, they are difficult to vi
 
 # Discussion
 
-### What can we take away from all of this?
+Let us begin by assuming that this function does indeed accurately reflect the utility one could expect to gain from a study session, which I believe it more or less does (excluding assumptions 7 and 8 of which are admittedly a bit of a stretch).
 
-Well, for starters, let us assume that this function does indeed accurately reflect the utility one could expect to gain from a study session, which I believe it more or less does (excluding assumptions 7 and 8 of which are admittedly a bit of a stretch).
+If we can concede that u(t) relates time to the instantaneous utility of a study session then we must also concede that its antiderivative, U(t), relates time to the total utility gained in that study session plus or minus some constant. This constant of integration could perhaps represent the unique potential of the individual or could instead be a combination of various forms of cognitive "capital," such as how well rested the individual is, how well nourished they are, how healthy they are, etc.. I will not dwell on this constant, however, as the topic is beyond the scope of this project. 
 
-If we can concede that u(t) relates time to the instantaneous utility of a study session then we must also concede that its antiderivative, U(t), relates time to the total utility gained in that study session plus or minus a constant. This constant of integration could perhaps represent the unique potential of the individual or could perhaps be a combination of various forms of cognitive "capital," such as how well rested the individual is, how well nourished they are, how healthy they are, etc.. 
+### Maximizing Returns
 
-<!--- Results
-Unfortunately, assumption 8 appears to hold greater weight. 
--->
+For a student with a desire to make the most of her study sessions, the question then becomes how she can maximize her total returns. Our first instinct may be to think that maximizing returns is equivalent to maximizing U(t). And this conclusion, within the limited scope of our aforementioned assumptions, would be correct; however, this approach would miss the bigger picture. 
+
+After all, our understanding of this utility function works under the limiting assumption that u(t) is continuous (assumption #2), but in the real-world we do not need to study in a strictly continuous manor; we are free to break our study time into discrete sessions if we so choose. Splitting your study time up in this way is, in fact, recommended. With this realization, the goal now shifts from maximizing U(t) to maximizing the productivity of U(t), which can be measured by the ratio U(t)/t. The graph of this ratio is illustrated in the third plot from the top in the figure above. 
+
+Why is this so? The answer to this question lies in an analogy to the economist's requirements of a short run production function, a function which u(t) most certainly bares resemblance to. Specifically, the "short run" from an economical viewpoint refers to a period of time in which there is at least one fixed factor input.
+
+The fact that many of the variables that returns depend on are static in the short run is the very reason that returns diminish in the short run. The remedy I propose is simple. After you have reached the point of maximum productivity (which would be after 2.1 hours according to our model, which should not be taken too seriously from a quantitative standpoint), I recommend you take a longer break. The goal here is to replenish your mind (I would like to imagine that t has been reset to 0 after an ideal long break). After this break, you should do your best to change as many input variables as possible. Change your study location, start studying a different topic or course, and perhaps even try and study from a different medium (if you were previously reading a textbook, try now to watch a lecture or educational video instead).
+
+After the ideal study break and ideal change of input variables, my hypothesis is that the utility function u(t) will once again be an appropriate model for your expected returns where t has now been reset to 0 and the graph has been left unchanged.
