@@ -8,7 +8,7 @@ This conjecture rests on several assumptions:
 <li>u(t) is a continuous function.</li>
 <li> u(0) = 0.0. Furthermore we also assume that, when we first begin a study session, our initial marginal returns are low as a result of our need to reorient ourselves with the material. This is especially true when we begin reading a chapter that we have already partially read, start working on a problem set that we have already done work on previously, start working on project X where project X represents a partially complete project, etc.. </li>
 <li> As we better orient ourselves with the material, our marginal returns increase rapidly until they reach a global maximum, which we will denote as u(t=tmax) = 1.0.  </li>
-<li> After we have reached this point of maximum marginal returns, our marginal returns immediately begin to diminish, but at a much slower rate than the rate at which they had initially rose (i.e. the rate at which the marginal returns rose from t=0 to t=tmax).</li>
+<li> After we have reached this point of maximum marginal returns, our marginal returns immediately begin to diminish, but at a much slower rate than the rate at which they had initially rose (i.e. the rate at which the marginal returns rose from t=0 to t&=tmax).</li>
 <li> As t approaches infinity, u(t) approaches zero.</li>
 </ol>
 
