@@ -10,6 +10,6 @@
 > Such a model, if accurate, would not only provide an illustration of the phenomena of diminishing returns and its effects on our day-to-day lives but would also serve as a testament to the relevance of utility theory in cognitive research. This model may also enable us to better understand and further validate focus and productivity software that is already in heavy use (e.g. the Pomodoro Method). 
 
 # How?
-You'll have to refer to my paper for this one, which has been included in this repository and can be found [here](UtilityFunctionForStudying.pdf).
+You will have to refer to my paper for this one, which has been uploaded to this repository and can be found [here](UtilityFunctionForStudying.pdf).
 
-Please keep in mind that this paper is still a work in progress...
+Please keep in mind that this paper is still a work in progress.
