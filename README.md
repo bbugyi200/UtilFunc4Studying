@@ -13,3 +13,17 @@
 You will have to refer to my paper for this one, which has been uploaded to this repository and can be found [here](UtilityFunctionForStudying.pdf).
 
 Please keep in mind that this paper is still a work in progress.
+
+-----------------------------------------------------
+
+# TODO List
+
+### Methods and Results
+- [ ] Clarify what assumptions this model makes about cognitive capital
+
+### Discussion Topics
+- [ ] What does this model suggest about the Pomodoro Method?
+- [ ] How can we generalize this model in order to apply it to our other day-to-day activities? How does this generalization suggest we should go about maximizing our satisfaction throughout life?
+
+### Concluding Remarks
+- [ ] Explain how u(t) seems to be inherently limited by the fact that it can only successfully model scenarios where tmax=1.0
