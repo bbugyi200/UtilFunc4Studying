@@ -5,26 +5,22 @@
 
 # What?
 
-#### Officially
-> My intention in writing this paper (other than simply to organize my findings for later reference) is to demonstrate an example utility function that I believe provides a relatively accurate model of a human beings ability to study efficiently in the short run, which I will assume to be a single continuous study session. After which, I will show how such a function could be used to maximize overall utility, which is, as I will go on to show, analogous to maximizing overall productivity.
-
-#### Unofficially
-This project's existence is essentially just the result of a failed google search.
-
-While researching this topic, I was able to find a fair amount of utility models for studying in the long run (a few of which I intend to cite in this paper), but I was unable to find any for the short run. Failing to find the answers I was looking for, I decided to do my own exploration on the topic.
-
-It is not my intention to present this paper as though I have any authority on the matter whatsoever. The topic this paper explores is of personal interest to me, but I do not claim to be an expert in economics or cognitive theory. This paper is a conjecture based solely on the introspection of my own experiences, and should be treated as such.
+> [M]y intention in writing this paper (other than simply to organize my findings for later reference) is to demonstrate an example utility function that I believe provides a relatively accurate model of a human beings ability to study efficiently in the short run, which I will assume to be a single continuous study session. After which, I will show how such a function could be used to maximize overall utility, which is, as I will go on to show, analogous to maximizing overall productivity.
 
 
 # Why?
 
-> Such a model, if accurate, would not only provide an illustration of the phenomena of diminishing returns and its effects on our day-to-day lives but would also serve as a testament to the relevance of utility theory in cognitive research. This model may also enable us to better understand and further validate focus and productivity software that is already in heavy use (e.g. the Pomodoro Method). 
+> I have been able to find several existing attempts to provide mathematical representations for long run utility models of studying. Additionally, I have found several examples of short run utility models being approached experimentally (e.g. "vigilance decrement" research, though not specific to studying, approaches a very similar model), but I could not find any attempts to derive a general formula from these results. Thus, in my opinion there seems to be a small section of this research area that may have been left neglected. Namely, few attempts seem to have been made to provide a mathematical representation for a short run utility model of studying. Such a representation, if accurate, could potentially be used to optimize a student's study sessions, thus making them more efficient. 
 
 
 # How?
 You will have to refer to my paper for this one, which has been uploaded to this repository and can be found [here](UtilityFunctionForStudying.pdf).
 
-Please keep in mind that this paper is still a work in progress.
+
+# Disclaimer
+This paper is still in its beginning stages of life. As such, I remain rather skeptical of the claims it makes as well as the corresponding research that led to such claims.
+
+Furthermore, it is not my intention to present this paper as though I have any authority on the matter whatsoever. The topic this paper explores is of personal interest to me, but I do not claim to be an expert in economics or cognitive theory. This paper is a conjecture based solely on the introspection of my own experiences and should be treated as such.
 
 -----------------------------------------------------
 
