@@ -27,6 +27,7 @@ Furthermore, it is not my intention to present this paper as though I have any a
 # TODO List
 
 - [ ] Add bibliography and cite sources
+- [ ] Add "Related Reading" section
 
 ### Methods and Results
 - [ ] Clarify what assumptions this model makes about cognitive capital
