@@ -35,6 +35,5 @@ Furthermore, it is not my intention to present this paper as though I have any a
 ### Discussion Topics
 - [ ] What does this model suggest about the Pomodoro Method?
 - [ ] How can we generalize this model in order to apply it to our other day-to-day activities? How does this generalization suggest we should go about maximizing our satisfaction throughout life?
-
-### Concluding Remarks
+- [ ] What are the limits of introspection? Why did I choose to model u(t) and then use it to derive U(t) as opposed to relying on introspection for U(t)?
 - [ ] Explain how u(t) seems to be inherently limited by the fact that it can only successfully model scenarios where tmax=1.0
